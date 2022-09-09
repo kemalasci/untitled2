@@ -3,5 +3,6 @@ public class java2 {
         System.out.println( "hoca modeli");
 
         System.out.println("hocam modeli devam");
+        System.out.println("hoca devam22");
     }
 }
